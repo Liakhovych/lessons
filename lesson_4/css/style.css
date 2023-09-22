@@ -1,0 +1,79 @@
+@import url(reset.css);
+
+*{
+    color: darkslategray;
+}
+
+[href] {
+    color:darkorchid;
+}
+
+[class*="-hippo"] {
+    color: darkturquoise;
+}
+
+h1 {
+    color: mediumvioletred;
+}
+
+.page-text p {
+    color: mediumblue;
+}
+
+span.snum {
+    color: gold;
+}
+
+#resalts {
+    color: orangered;
+}
+
+h2 {
+    color: lightsalmon !important;
+}
+
+.about-us-title ~ p {
+    color: darkviolet;
+}
+.home p {
+    color: royalblue;
+}
+
+.stories .name-description {
+    color: limegreen;
+}
+
+.description-list > dd {
+    color: coral;
+}
+
+.description-list + q {
+    color: darkcyan;
+}
+
+.book-item-link * {
+    color: mediumvioletred;
+}
+
+.book-item-link {
+    color:limegreen;
+}
+
+.book-item-link p {
+    color: forestgreen;
+}
+
+.citate.odd {
+    color: firebrick;
+}
+
+.text, 
+.bolted {
+    color: fuchsia;
+}
+.registration-link.waiting {
+    color: firebrick;
+}
+
+
+
