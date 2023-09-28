@@ -1,0 +1,124 @@
+/*Знаю, що h1 має бути один на сторінці, але валідатор пропускає 🫣, а свариться на pl, але більша частина тексту саме польською
+Похваліть мене, будь ласка 😂
+Я стараюсь 😄
+Гарного дня 🤝*/
+
+
+@import url("fonts.css");
+
+@import url('reset.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    color: #7D7D7D;
+    line-height: 1.47;
+}
+
+.title,
+.sub-title,
+.title-third {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    line-height: 1.27;
+}
+
+.title {
+    font-size: 30px;
+    text-transform: capitalize;
+    color: #37393F;
+    -webkit-text-stroke: 1px #000000;
+    
+}
+
+.sub-title {
+    font-size: 20px;
+    color: #6B77E5;
+}
+
+.title-third {
+    
+    color: #37393F;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+[class*="-link-item"] {
+    text-transform: uppercase;
+    color:mediumblue;
+}
+
+#best {
+    
+    color: red;
+    font-size: 35px;
+    text-shadow: 5px 5px 10px grey;
+}
+
+.choise-title {
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    color: #40DDB6; 
+}
+
+.ordnung-item {
+    font-family: "Kiss Boom";
+    font-size: 40px;
+    font-weight: 500;
+    color:navy;
+}
+
+.wybor~p {
+    font-family: 'Croissant One', cursive;
+    font-size: 20px;
+    color: darkslategrey;
+
+}
+.img-buy-item {
+    text-decoration: dotted;
+    text-transform: lowercase;
+    letter-spacing: 5px;
+    font-size: 20px;
+    color:mediumvioletred;
+}
+
+.elf{
+    text-align: center;
+}
+
+.citate.odd {
+    font-family: 'Croissant One', cursive;
+    color: limegreen;
+}
+
+.politics-item>a {
+    color:rosybrown;
+    font-size: small;
+}
+
+.rechts p {
+    color:rebeccapurple;
+    font-size:x-small;
+}
+
+.sub-title-hfive {
+    font-size: 25px;
+    color: blue;
+    text-decoration: underline;
+}
+
+.part-third-ol,
+.part-third-ul {
+    font-weight: 500;
+}

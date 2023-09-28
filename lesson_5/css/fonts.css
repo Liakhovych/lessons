@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "Causten";
+    src:
+        url("../fonts/Causten-Regular-1.woff2") format("woff2"),
+        url("../fonts/Causten-Regular-1.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Causten";
+    src:
+        url("../fonts/Causten-Light-1.woff2") format("woff2"),
+        url("../fonts/Causten-Light-1.woff") format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Causten";
+    src:
+        url("../fonts/Causten-Medium-1.woff2") format("woff2"),
+        url("../fonts/Causten-Medium-1.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Causten";
+    src:
+        url("../fonts/Causten-SemiBold-1.woff2") format("woff2"),
+        url("../fonts/Causten-SemiBold-1.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Causten";
+    src:
+        url("../fonts/Causten-Bold-1.woff2") format("woff2"),
+        url("../fonts/Causten-Bold-1.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Kiss Boom";
+    src: 
+        url(../fonts/Kiss-Boom.woff2) format(woff2),
+        url(../fonts/Kiss-Boom.woff) format(woff);
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
