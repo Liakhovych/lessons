@@ -81,13 +81,14 @@ body {
 }
 
 .wybor~p {
-    font-family: 'Croissant One', cursive;
+    font-family: 'Croissant One';
     font-size: 20px;
     color: darkslategrey;
 
 }
 .img-buy-item {
-    text-decoration: dotted;
+    font-family: 'Causten';
+    font-weight: 600;
     text-transform: lowercase;
     letter-spacing: 5px;
     font-size: 20px;
@@ -97,13 +98,22 @@ body {
 .elf{
     text-align: center;
 }
+.sub-title-hfive {
+    font-family: 'Causten';
+    font-weight: 700;
+}
 
 .citate {
     text-indent: 30px;
 }
 
+.best p {
+    font-family: 'Causten';
+    font-weight: 300;
+}
+
 .citate.odd {
-    font-family: 'Croissant One', cursive;
+    font-family: 'Croissant One';
     color: limegreen;
 }
 
