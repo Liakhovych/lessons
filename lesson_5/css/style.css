@@ -70,6 +70,7 @@ body {
     font-weight: 500;
     font-style: italic;
     color: #40DDB6; 
+    line-height: 1.5;
 }
 
 .ordnung-item {
@@ -97,9 +98,17 @@ body {
     text-align: center;
 }
 
+.citate {
+    text-indent: 30px;
+}
+
 .citate.odd {
     font-family: 'Croissant One', cursive;
     color: limegreen;
+}
+
+.choise-links .description{
+    text-shadow: -4px  -4px 2px lightpink;
 }
 
 .politics-item>a {
