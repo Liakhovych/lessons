@@ -1,0 +1,196 @@
+@import url("fonts.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&display=swap');
+
+@import url("reset.css");
+
+
+.part-one {
+    font-family: 'Inter', sans-serif;
+    color: #7D7D7D;
+    font-size: 18px;
+    font-weight: 400;
+
+
+    max-width: 716px;
+    padding: 12px;
+    margin: 0 auto;
+
+}
+
+.logo-pic {
+    max-width: 100%;
+    margin-bottom: 42.5px;
+}
+
+.heading,
+.title,
+.sub-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    line-height: 1.27;
+}
+
+.heading {
+    font-size: 30px;
+    text-transform: capitalize;
+    color: #37393F;
+    -webkit-text-stroke: 1px #000000;  
+    margin-bottom: 18px;
+}
+
+.container-consulting-completely,
+.container-consulting-service {
+    color: #7D7D7D;
+    line-height: 1.46;
+}
+
+.container-consulting-completely {
+    margin-bottom: 47px;
+}
+
+.desc {
+    color: #6B77E5;
+    font-size: 20px;
+    margin-bottom: 22px;
+}
+
+.slogan {
+    color: #40DDB6;
+    font-size: 20px;
+}
+
+.container-consulting-service {
+    margin-bottom: 44.5px;
+}
+
+.container-benefits {
+    margin-bottom: 48px;
+    font-size: 0;
+}
+
+.thumb {
+    width: 331px;
+    margin-right: 29px;
+}
+
+.title {
+    color: #37393F;
+    font-size: 25px;
+    margin-bottom: 22px;
+}
+.sub-title {
+    margin-bottom: 25px;
+}
+
+.container-benefits-block {
+    display: inline-block;
+    width: 331px;
+    font-size: 18px;
+    line-height: normal;
+}
+
+.container-benefits-list-item {
+    margin-bottom: 35px;
+}
+
+.part-two {
+    background: #FFF9F4;
+    margin-bottom: 48px;
+}
+
+.jewels {
+    max-width: 1191px; 
+    margin: 0 auto;
+    padding: 140px 0;
+}
+
+.text-block {
+    display: inline-block;
+    font-family: 'Inter', sans-serif;
+    margin-right: 38px;
+    width: 563px;
+    height: 232px;
+}
+
+.we-do {
+    margin-top: 27px;
+    margin-bottom: 13px;
+    color: #D06B00;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.custom-jewels {
+    text-transform: capitalize;
+    color: #0E333D;
+    font-family: 'DM Serif Text', serif;
+    font-size: 59px;
+    font-weight: 400;
+    line-height: 1.47;
+    margin-bottom: 25px;
+}
+
+.dec {
+    width: 563px;
+    height: 232px;
+    color: #474747;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.8;
+    margin-bottom: 43.5px;
+}
+
+
+.earring,
+.sunnyear {
+    font-size: 0;
+    display: inline-block;
+    width: 273px;
+    height: 518px;
+    border-radius: 5px;
+}
+.earring {
+    margin-right: 22px;
+}
+
+hr {
+    height: 1px;
+    opacity: 0.2;
+    background: #969696;
+    
+}
+
+.politics{
+    margin: 0 auto;
+    padding: 46px 216px 53px;
+    max-height: 50px;
+    overflow: auto;
+}
+.politics-item>a,
+.rechts p {
+    color: #0E333D;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px; 
+}
+.politics-item {
+    margin-bottom: 24px;
+}
+
+.rechts {
+    padding: 34px 150px;
+}
+
+
+
